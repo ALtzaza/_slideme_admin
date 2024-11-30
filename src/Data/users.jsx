@@ -172,7 +172,7 @@ export function verifyUser(user, pass) {
             gender: userFound.gender,
             pass: userFound.pass,
             profileImage: userFound.profileImage,
-            token: userFound.token,
+            token1: userFound.token,
             roles: userFound.roles,
             homePermission: userFound.homePermission,
             dashboardPermission: userFound.dashboardPermission,
