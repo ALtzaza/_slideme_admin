@@ -2,7 +2,7 @@
   "name": "slideme_admin",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Altzaza.github.io/_slideme_admin",
+  "homepage": "https://_slideme_admin",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
